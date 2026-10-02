@@ -1,0 +1,13 @@
+Module,Total Cases,High,Medium,Low,% of Suite
+Authentication & Accounts,28,12,13,3,19.0%
+User Profiles,12,1,8,3,8.2%
+Trip Creation (Driver),27,7,16,4,18.4%
+Trip Discovery (Search),13,5,7,1,8.8%
+Trip Detail Page,7,5,2,0,4.8%
+Booking Flow,12,9,3,0,8.2%
+Payments,13,7,5,1,8.8%
+Messaging,9,4,3,2,6.1%
+Ratings & Reviews,8,3,4,1,5.4%
+Admin,7,4,3,0,4.8%
+Non-Functional / Cross-Cutting,11,4,5,2,7.5%
+TOTAL,147,61,69,17,100.0%
