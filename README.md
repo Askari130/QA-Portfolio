@@ -19,7 +19,7 @@
 
 ## 🧪 About Me
 
-Quality Assurance Engineer with **2+ years of experience** in manual and automated testing across fintech and marketplace platforms. I bring a developer's mindset to QA — having built projects with HTML, CSS, JavaScript, and React, I understand how software is built, which helps me find defects that surface-level testers miss.
+Quality Assurance Engineer with **3+ years of experience** in manual and automated testing across fintech and marketplace platforms. I bring a developer's mindset to QA — having built projects with HTML, CSS, JavaScript, and React, I understand how software is built, which helps me find defects that surface-level testers miss.
 
 I specialize in:
 
