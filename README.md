@@ -35,7 +35,7 @@ I specialize in:
 
 | Metric | Value |
 | :--- | :--- |
-| Years of QA Experience | 2+ |
+| Years of QA Experience | 3+ |
 | Test Cases Written (RideSeat MVP) | 147 |
 | Modules Covered | 11 |
 | Security Test Cases | 10 |
@@ -46,7 +46,7 @@ I specialize in:
 
 ## 💼 Work Experience
 
-### Quality Assurance Engineer — RideSeat *(Feb 2026 – Present)*
+### Quality Assurance Engineer — RideWay *(Feb 2026 – September 2026)*
 
 > RideSeat is a web-based carpooling platform enabling drivers to publish trips and travelers to book affordable rides.
 
@@ -67,7 +67,7 @@ I specialize in:
 
 ---
 
-## 🗂️ Case Study: RideSeat MVP Test Suite
+## 🗂️ Case Study: RideWay MVP Test Suite
 
 ### Module Coverage
 
